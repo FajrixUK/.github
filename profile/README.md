@@ -30,9 +30,9 @@ Accuracy, security and privacy guide our design decisions. We prioritise meaning
 
 ## Explore our work
 
-Visit [Fajrix](https://fajrix.com) for our platform direction, [Hugging Face](https://huggingface.co/Fajrix) for our AI and machine learning focus, and [Fajrix Insights](https://insights.fajrix.com) for research and analysis.
+Start with [Fajrix Research](https://github.com/FajrixUK/research) for our research direction, questions and approach. Visit [Fajrix](https://fajrix.com) for our platform direction, [Hugging Face](https://huggingface.co/Fajrix) for our AI and machine learning focus, and [Fajrix Insights](https://insights.fajrix.com) for research and analysis.
 
-We intend to publish selected engineering examples, evaluation resources and research materials here as they become ready to share. Each release will explain its purpose, how to use it and its limitations.
+We will add selected engineering examples, evaluation resources and study companions as they become ready to share. Each release will explain its purpose, how to use it and its limitations.
 
 ## Connect
 
