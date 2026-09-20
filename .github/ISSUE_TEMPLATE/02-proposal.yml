@@ -1,0 +1,48 @@
+name: Proposal or research source
+description: Suggest an improvement, research question or source relevant to this repository.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please keep proposals within the scope described in this repository's README.
+        An issue starts a discussion; it does not commit Fajrix to carrying out or publishing the work.
+        Do not include private information. Use our [security policy](https://github.com/FajrixUK/.github/blob/main/SECURITY.md) for security concerns.
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal or question
+      description: Explain what you would like us to consider and which part of the repository it relates to.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Purpose and intended audience
+      description: Who would benefit, and what gap or problem would this address?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sources and reasoning
+      description: Provide public source links, dates and an explanation of their relevance. Distinguish evidence from interpretation. If this is a new hypothesis or an unsourced idea, say so.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations or alternatives
+      description: Describe uncertainties, conflicting evidence or alternatives where relevant.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have checked existing issues for a similar proposal.
+          required: true
+        - label: I have included only information I have the right to share publicly.
+          required: true
+        - label: I agree to follow the [Fajrix code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md).
+          required: true

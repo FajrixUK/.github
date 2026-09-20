@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security concern privately
+    url: https://github.com/FajrixUK/.github/blob/main/SECURITY.md
+    about: Read the private reporting routes before sharing sensitive information.
+  - name: Report a conduct concern
+    url: https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Use the private contact route for participation or conduct concerns.
+  - name: Business enquiries and support
+    url: https://github.com/FajrixUK/.github/blob/main/SUPPORT.md
+    about: Find the appropriate route for enquiries that do not belong in a public issue.
