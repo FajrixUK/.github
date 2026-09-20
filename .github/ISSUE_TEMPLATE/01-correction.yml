@@ -1,0 +1,47 @@
+name: Correction or presentation issue
+description: Report an inaccurate statement, broken link, accessibility issue or display problem.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue will be public. Do not include credentials, personal financial records or confidential information.
+        Report security concerns using our [private reporting guidance](https://github.com/FajrixUK/.github/blob/main/SECURITY.md).
+  - type: input
+    id: location
+    attributes:
+      label: Affected page or file
+      description: Provide a link or repository path and the relevant section.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correcting?
+      description: Describe the problem and its effect on readers or users.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Proposed correction and evidence
+      description: Explain the expected wording or behaviour. Include primary sources and relevant dates for factual corrections, where available.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: For display issues, include browser, device and steps to reproduce. Remove sensitive information from screenshots.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have checked existing issues for this problem.
+          required: true
+        - label: This report contains no sensitive information or security vulnerability details.
+          required: true
+        - label: I agree to follow the [Fajrix code of conduct](https://github.com/FajrixUK/.github/blob/main/CODE_OF_CONDUCT.md).
+          required: true
