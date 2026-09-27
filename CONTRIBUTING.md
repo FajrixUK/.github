@@ -16,6 +16,16 @@ For documentation, check facts against the cited sources and distinguish current
 
 Include source links, dates and relevant passages for factual corrections. Verify AI-assisted work with the same care as other contributions; disclose material AI assistance and how it was checked. Never submit invented citations or unverified claims as established facts.
 
+## Documentation checks for this repository
+
+For changes to the FajrixUK `.github` repository, follow the
+[documentation check instructions](https://github.com/FajrixUK/.github/blob/main/.github/ci/README.md)
+to run the automated checks locally.
+
+These checks cover Markdown conventions, local links, image paths and YAML syntax. Review factual accuracy, external links, accessibility and reuse permissions separately.
+
+Other FajrixUK repositories may use different checks; follow their own validation instructions.
+
 ## Rights and provenance
 
 Submit only material you have the right to share. Identify third-party sources, licence terms and modifications, and preserve required notices. Do not include confidential information, personal financial records, credentials or unpublished material belonging to someone else.
