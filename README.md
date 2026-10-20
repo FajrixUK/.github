@@ -8,6 +8,7 @@ This repository contains the public profile, brand assets and shared community g
 | `assets/fajrix-banner.png` | Fajrix banner used by the profile |
 | `CODE_OF_CONDUCT.md` | Participation standards and conduct reporting |
 | `CONTRIBUTING.md` | Default guidance for proposing changes |
+| [ACCESSIBILITY.md](ACCESSIBILITY.md) | Accessibility priorities, limitations and reporting |
 | `SECURITY.md` | Private reporting of security concerns |
 | `SUPPORT.md` | Routes for questions and enquiries |
 | `.github/ISSUE_TEMPLATE/` | Structured forms for corrections and proposals |
