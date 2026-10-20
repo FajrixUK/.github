@@ -4,17 +4,17 @@ This repository contains the public profile, brand assets and shared community g
 
 | Path | Purpose |
 | --- | --- |
-| `profile/README.md` | Introduction displayed on the organisation overview |
-| `assets/fajrix-banner.png` | Fajrix banner used by the profile |
-| `CODE_OF_CONDUCT.md` | Participation standards and conduct reporting |
-| `CONTRIBUTING.md` | Default guidance for proposing changes |
+| [profile/README.md](profile/README.md) | Introduction displayed on the organisation overview |
+| [assets/fajrix-banner.png](assets/fajrix-banner.png) | Fajrix banner used by the profile |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Participation standards and conduct reporting |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Default guidance for proposing changes |
 | [ACCESSIBILITY.md](ACCESSIBILITY.md) | Accessibility priorities, limitations and reporting |
-| `SECURITY.md` | Private reporting of security concerns |
-| `SUPPORT.md` | Routes for questions and enquiries |
-| `.github/ISSUE_TEMPLATE/` | Structured forms for corrections and proposals |
-| `.github/PULL_REQUEST_TEMPLATE.md` | Information requested with proposed changes |
-| `LICENSE.md` | Repository rights and reuse notice |
-| `BRAND_ASSETS.md` | Scope of permission for brand assets |
+| [SECURITY.md](SECURITY.md) | Private reporting of security concerns |
+| [SUPPORT.md](SUPPORT.md) | Routes for questions and enquiries |
+| [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) | Structured forms for corrections and proposals |
+| [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Information requested with proposed changes |
+| [LICENSE.md](LICENSE.md) | Repository rights and reuse notice |
+| [BRAND_ASSETS.md](BRAND_ASSETS.md) | Scope of permission for brand assets |
 
 GitHub uses supported community files here as defaults for FajrixUK repositories that do not provide their own equivalents. Repository-specific guidance takes precedence. The rights notice and brand guidance apply to this repository; licences do not inherit into other repositories.
 
