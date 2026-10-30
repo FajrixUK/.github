@@ -1,0 +1,3 @@
+# Default responsibility for community guidance, reporting policy and automation.
+# CODEOWNERS routes reviews; required approval is configured separately.
+* @Edil-Camil
