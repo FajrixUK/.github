@@ -12,9 +12,11 @@ Nothing in this notice limits uses permitted by applicable law, permissions gran
 
 For reuse requiring permission beyond those existing rights, including republication, adaptation or redistribution, contact [info@fajrix.com](mailto:info@fajrix.com). Identify the material, intended use, audience and proposed attribution. Attribution alone does not provide a licence.
 
-## Brand assets
+## Brand assets and trade mark
 
-The Fajrix name, FJ monogram, wordmark, logos and banners are not released under a general brand-use licence. This notice grants no trade mark rights or permission to imply Fajrix sponsorship, affiliation or endorsement. See [brand asset guidance](BRAND_ASSETS.md). Lawful uses and any separate permissions remain unaffected.
+**Fajrix® is a registered trade mark in the United Kingdom.** The Fajrix name, FJ monogram, wordmark, logos and banners are not released under a general brand-use licence. The registration statement does not imply that every asset has a separate registration or that Fajrix is registered in every jurisdiction.
+
+This notice grants no trade mark rights or permission to imply Fajrix sponsorship, affiliation or endorsement. See [brand asset guidance](BRAND_ASSETS.md). Lawful uses and any separate permissions remain unaffected.
 
 ## Third-party material and contributions
 
