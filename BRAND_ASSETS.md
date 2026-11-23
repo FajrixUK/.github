@@ -4,6 +4,8 @@
 
 **Fajrix® is a registered trade mark in the United Kingdom.** Fajrix is the brand of Fajrix Limited, a company registered in England and Wales (company number 15001279).
 
+The UK Intellectual Property Office reference for the **FAJRIX** mark is **UK00004425135**, recorded for Fajrix Limited. See the [official trade mark record](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00004425135) and the [UKIPO Trade Marks Journal entry](https://www.ipo.gov.uk/types/tm/t-os/t-tmj/t-tmj/tm-journals/2026-033/UK00004425135.html).
+
 The registration statement concerns the Fajrix trade mark in the UK. It does not claim registration in other jurisdictions or imply that each logo, monogram, design element or variation has a separate registration.
 
 ## Assets and intended use
