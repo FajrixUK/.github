@@ -16,6 +16,12 @@ For documentation, check facts against the cited sources and distinguish current
 
 Include source links, dates and relevant passages for factual corrections. Verify AI-assisted work with the same care as other contributions; disclose material AI assistance and how it was checked. Never submit invented citations or unverified claims as established facts.
 
+## Public-facing claims and research
+
+Distinguish a platform under development, a research question, an engineering experiment and a released or validated capability. Use accurate dates and evidence when describing current features, performance or availability. For proposed research, consult the [Fajrix Research agenda](https://github.com/FajrixUK/research/blob/main/RESEARCH-AGENDA.md) and [publication register](https://github.com/FajrixUK/research/blob/main/RESEARCH-REGISTER.md) rather than implying that an agenda constitutes published findings.
+
+Use **Fajrix®** accurately when identifying the registered UK trade mark. Follow the [brand guidance](BRAND_ASSETS.md) for artwork and third-party reuse; the registration does not provide a licence to reproduce Fajrix branding.
+
 ## Documentation checks for this repository
 
 For changes to the FajrixUK `.github` repository, follow the
