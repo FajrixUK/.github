@@ -1,43 +1,61 @@
 <p align="center">
   <a href="https://fajrix.com">
-    <img src="https://raw.githubusercontent.com/FajrixUK/.github/main/assets/fajrix-banner.png" alt="Fajrix" width="1100">
+    <img src="https://raw.githubusercontent.com/FajrixUK/.github/main/assets/fajrix-banner.png" alt="Fajrix brand banner" width="1100">
   </a>
 </p>
 
-# Financial intelligence beyond the ledger.
+# Fajrix®
 
-**AI-native accounting and financial management.**
+**Financial intelligence beyond the ledger.**
 
-Fajrix is a UK financial technology company developing software that brings financial information, intelligent workflows and human oversight together. We are building for the UK first, with a long-term focus on Europe and the Middle East.
+Fajrix is a UK financial technology company developing an intelligent financial operating layer for modern business. Our direction brings financial information, accounting workflows, governance and decision support together, so organisations can move from reliable records to informed, controlled action.
 
-[Explore Fajrix](https://fajrix.com) · [AI & ML](https://huggingface.co/Fajrix) · [Research & insights](https://insights.fajrix.com) · [LinkedIn](https://www.linkedin.com/company/fajrix/)
+We are building for the United Kingdom first, with a long-term outlook across Europe and the Middle East.
+
+[Explore Fajrix](https://fajrix.com) · [Platform direction](https://fajrix.com/features) · [Engineering](https://fajrix.com/engineering) · [Research](https://github.com/FajrixUK/research)
 
 ## What we are building
 
-Our aim is to help businesses understand their finances, reduce repetitive accounting work and make informed decisions with a clear record of the information and actions behind them.
+Financial systems should do more than record the past. We are developing technology around four connected priorities:
 
-Our development priorities include:
+- **Reliable financial information** — coherent records and meaningful context for financial visibility.
+- **Accountable workflows** — permissions, review points and traceable actions that support human responsibility.
+- **Responsible intelligence** — automation and AI-assisted insight evaluated against accounting requirements, transparent assumptions and verifiable results.
+- **Security and resilience** — dependable engineering practices, controlled change and clear operational evidence.
 
-- **Financial document intelligence** — turning business documents into structured information that people can review.
-- **Accountable automation** — connecting financial workflows with clear permissions, review points and traceable actions.
-- **Decision support** — making financial information easier to interpret, with transparent assumptions and limitations.
+**Product status:** The financial platform is in development. The priorities above describe our direction, not a list of generally available capabilities. We will communicate availability and supported markets through the [official website](https://fajrix.com).
 
-The platform is in development. Availability and supported markets will be communicated through our official website.
+## How we approach engineering
 
-## The principles guiding our work
+We treat security, privacy, financial integrity and operational resilience as design responsibilities, not features to add later. Our public engineering work emphasises version-controlled changes, automated verification, least privilege, reproducible evaluation and documentation that keeps claims proportionate to evidence.
 
-Accuracy, security and privacy guide our design decisions. We prioritise meaningful human oversight, reproducible evaluation and clear documentation of what a system can—and cannot—do.
+The [Fajrix Engineering](https://fajrix.com/engineering) pages explain the principles guiding our approach. Private implementation details and production infrastructure are not published through this organisation profile.
+
+## Research that informs the work
+
+[Fajrix Research](https://github.com/FajrixUK/research) examines financial intelligence, transaction integrity, trustworthy AI evaluation and strategic technology capability.
+
+The repository includes our [research agenda](https://github.com/FajrixUK/research/blob/main/RESEARCH-AGENDA.md), [research approach](https://github.com/FajrixUK/research/blob/main/RESEARCH-APPROACH.md) and [publication register](https://github.com/FajrixUK/research/blob/main/RESEARCH-REGISTER.md). The register distinguishes programme directions and candidate studies from evidence-backed research actually released to the public.
+
+We do not treat an engineering demonstration, a research result and a production-ready financial capability as interchangeable.
 
 ## Explore our work
 
-Start with [Fajrix Research](https://github.com/FajrixUK/research) for our research direction, questions and approach. Visit [Fajrix](https://fajrix.com) for our platform direction, [Hugging Face](https://huggingface.co/Fajrix) for our AI and machine learning focus, and [Fajrix Insights](https://insights.fajrix.com) for research and analysis.
+- **[Fajrix website](https://fajrix.com)** — our business, platform direction and services.
+- **[Fajrix Engineering](https://fajrix.com/engineering)** — the principles behind secure, controlled and maintainable financial technology.
+- **[Fajrix Research](https://github.com/FajrixUK/research)** — research questions, publication standards and released companions when available.
+- **[Fajrix Insights](https://insights.fajrix.com)** — analysis and commentary.
+- **[Fajrix on Hugging Face](https://huggingface.co/Fajrix)** — our AI and machine-learning presence.
+- **[LinkedIn](https://www.linkedin.com/company/fajrix/)** — company updates and professional connections.
 
-We will add selected engineering examples, evaluation resources and study companions as they become ready to share. Each release will explain its purpose, how to use it and its limitations.
+This GitHub organisation currently provides public research and shared community materials. The private development repositories for Fajrix software and engineering experiments are not represented as publicly available source code.
 
-## Connect
+## Connect and contribute
 
-For business enquiries and collaboration, contact [info@fajrix.com](mailto:info@fajrix.com).
+We welcome thoughtful research proposals, source corrections, technical dialogue and potential collaboration. See our [community contribution guidance](https://github.com/FajrixUK/.github/blob/main/CONTRIBUTING.md), [security reporting policy](https://github.com/FajrixUK/.github/blob/main/SECURITY.md) and [accessibility guidance](https://github.com/FajrixUK/.github/blob/main/ACCESSIBILITY.md).
+
+For business, research and partnership enquiries, contact [info@fajrix.com](mailto:info@fajrix.com).
 
 ---
 
-Fajrix is the brand of **Fajrix Limited**, registered in England and Wales, company number **15001279**. Official website: [fajrix.com](https://fajrix.com).
+**Fajrix®** is a registered trade mark in the United Kingdom. Fajrix is the brand of **Fajrix Limited**, registered in England and Wales under company number **15001279**. [Official website](https://fajrix.com).
